@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleList</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="f_name">First Name</string>
+    <string name="l_name">Last Name</string>
+    <string name="warning_fname_lname_required">First name and Last name fields are required</string>
+    <string name="error_failed_to_get_data">Failed to get data</string>
+</resources>
